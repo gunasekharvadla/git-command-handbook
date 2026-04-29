@@ -17,7 +17,7 @@ The goal of this repository is to gain strong practical knowledge of:
 ---
 
 ## 🧰 Tools & Technologies
-
+giiittt
 - Git (Version Control System)
 - GitHub (Remote Repository Hosting)
 - Command Line / Terminal

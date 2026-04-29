@@ -25,19 +25,6 @@ The goal of this repository is to gain strong practical knowledge of:
 
 ---
 
-## 📂 Repository Structure
-it-github-commands/
-│
-├── 01-basics/ # Git fundamentals
-├── 02-repository/ # init, clone, status
-├── 03-staging-commits/ # add, commit, reset
-├── 04-branching/ # branch, checkout, merge
-├── 05-remote/ # push, pull, fetch
-├── 06-advanced/ # rebase, cherry-pick, stash
-├── 07-workflows/ # real-world workflows
-
-
----
 
 ## 📘 Topics Covered
 
